@@ -1,2 +1,2 @@
-# hello-world
-cool coding
+# AI
+training models
